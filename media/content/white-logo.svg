@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="32px" viewBox="0 0 127 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components-/-Navigation-/-Main-(Dark)" transform="translate(-32.000000, -44.000000)">
+            <g id="Logo-/-Light" transform="translate(32.000000, 32.000000)">
+                <text id="Name" font-family="PTSerif-Bold, PT Serif" font-size="24" font-weight="bold" line-spacing="40" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="28" y="24">ProLean</tspan>
+                </text>
+                <text id="Name-Copy" font-family="PTSerif-Regular, PT Serif" font-size="13" font-weight="normal" line-spacing="40" letter-spacing="0.270833254" fill="#FFFFFF">
+                    <tspan x="29" y="31">Scrum Master</tspan>
+                </text>
+                <g id="Icon" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 12.000000)">
+                    <rect id="Shape" x="0" y="0" width="24" height="30"></rect>
+                    <path d="M7.75734821,1.06675097 L10.1947976,1.49653906 C10.7386919,1.5924423 11.1018604,2.11110068 11.0059572,2.65499499 L7.64578524,21.7114769 C7.45397876,22.7992655 6.41666199,23.5256025 5.32887338,23.333796 L1.43878238,22.647868 C0.894888081,22.5519648 0.531719569,22.0333064 0.627622809,21.4894121 L3.73165481,3.88557183 C4.06492346,1.99551141 5.86728778,0.73348232 7.75734821,1.06675097 Z M14.7599756,5.28323984 L22.5612176,6.65880929 C23.1051119,6.75471253 23.4682804,7.27337092 23.3723772,7.81726522 L20.6131659,23.46553 C20.089458,26.4356249 17.2571712,28.4188135 14.2870763,27.8951056 L9.89405142,27.1204968 C9.35015711,27.0245936 8.9869886,26.5059352 9.08289184,25.9620409 L12.4430638,6.90555899 C12.6348702,5.81777039 13.672187,5.09143336 14.7599756,5.28323984 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

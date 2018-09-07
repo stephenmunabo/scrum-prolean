@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1281px" viewBox="0 0 1440 1281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-9.47388889e-14%" y1="-1.03981829e-14%" x2="3.46885417e-13%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#110F24" offset="0%"></stop>
+            <stop stop-color="#211B4E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2736,0 L0,0 L0,399 C0,399 131.6662,404.6981 228,418 C1016.6919,526.9099 1280.8964,990.0406 1862,1292 C2290.9478,1514.8947 2736,1558 2736,1558 L2736,0 Z" id="path-2"></path>
+    </defs>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home">
+            <g id="#1">
+                <g id="BG">
+                    <g id="Overlay" transform="translate(-648.000000, -113.000000)">
+                        <g id="rawpixel-653764-unsplash">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
